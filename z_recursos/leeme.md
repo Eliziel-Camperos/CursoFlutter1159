@@ -6,3 +6,8 @@
 
 ![image](dialogoacercade.JPG)
 ![image](dialogoacercade2.JPG)
+
+##Ejemplo de Lista Acerca DE
+
+![image](listaacercade.JPG)
+![image](listaacercade2.JPG)

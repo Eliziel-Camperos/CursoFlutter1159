@@ -1,6 +1,7 @@
 import 'package:curso/mis_widgets/dialogo_acerca_de.dart';
 import 'package:flutter/material.dart';
 import 'package:curso/mis_widgets/mi_tarjeta.dart';
+import 'mis_widgets/lista_acerca_de.dart';
 
 const Color darkBlue = Color(0xFF12202F);
 void main() => runApp(MiTarjeta());
@@ -19,6 +20,6 @@ class MiTarjeta extends StatelessWidget {
               title: const Text('Flutter Eliziel'),
               centerTitle: true,
             ),
-            body: const DialogoAcercaDe()));
+            body: const ListaAcercaDe()));
   }
 }
