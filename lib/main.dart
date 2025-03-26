@@ -1,3 +1,4 @@
+import 'package:curso/mis_widgets/dialogo_acerca_de.dart';
 import 'package:flutter/material.dart';
 import 'package:curso/mis_widgets/mi_tarjeta.dart';
 
@@ -18,6 +19,6 @@ class MiTarjeta extends StatelessWidget {
               title: const Text('Flutter Eliziel'),
               centerTitle: true,
             ),
-            body: const LaTarjeta()));
+            body: const DialogoAcercaDe()));
   }
 }
